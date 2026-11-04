@@ -1,0 +1,6 @@
+{
+  "name": "Why Tree",
+  "description": "Offline-first visual thinking and root-cause problem analysis application",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
